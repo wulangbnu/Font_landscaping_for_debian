@@ -1,4 +1,4 @@
-Font landscaping for debian 
+Font landscaping for Debian/Centos 
 
 1.System -> Preference -> Appearance -> Fonts -> Rendering -> Details -> Hinting -> Slight
 
@@ -13,7 +13,7 @@ Font landscaping for debian
 4.just reboot you computer ans enjoy it!
 
 
-debian中文字体美化
+Debian/Centos 系统中文字体美化
 
 1.系统->首选项->外观->字体->渲染->细节->微调->轻微 
 
