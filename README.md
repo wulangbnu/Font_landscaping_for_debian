@@ -10,7 +10,7 @@ Font landscaping for Debian/Centos
   
   sudo cp -r usr_share_fonts/*   /usr/share/fonts/ 
 
-4.just reboot you computer ans enjoy it!
+4.just reboot you computer and enjoy it!
 
 
 Debian/Centos 系统中文字体美化
